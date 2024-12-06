@@ -6,3 +6,7 @@ django-cors-headers==4.3.0
 djangorestframework==3.15.2
 plaid-python==27.0.0
 #environs
+# python manage.py makemigrations
+# pip install -r requirements.txt
+# # to avoid duplicates and unused packages
+# pip install -r requirements.txt --upgrade --no-deps

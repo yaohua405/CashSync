@@ -9,3 +9,4 @@ backend/server/restfulapi/views/__pycache__
 
 backend/server/server/venv/
 backend/server/server/env
+node_modules
