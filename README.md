@@ -26,6 +26,7 @@ Navigate to: cd backend
 2. cd server
 3. pip install -r requirements.txt
 4. pip install -r requirements.txt --upgrade --no-deps
+
 5. Install Core application package dependencies:
     pip install python-dotenv 
     pip install djangorestframework 
@@ -43,6 +44,10 @@ Navigate to: cd backend
 
 
 6. python manage.py runserver # run web server on localhost
+
+How to start frontend:
+1. npm install
+2. npm start
 
 
 TODO: 
