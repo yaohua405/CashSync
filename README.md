@@ -1,4 +1,3 @@
-# Cashcore
 # Cashcore Edge
 
 to create venv folder if you don have it in the folder structure:
@@ -12,7 +11,7 @@ PREREQUISITE:
 1. (if venv file is not in folder structure or is corrupt) use this command:
         python -m venv venv #create venv dir
 
-Prerequisite: Remember to always activate the virtual environment:
+2. PREREQUISITE:: Remember to always activate the virtual environment, to run the backend server:
 source venv/bin/activate # For mac/linux OS
 
 Navigate to: PS D:\HDD\Desktop\Cashcore-main\cashcore-main\backend\
