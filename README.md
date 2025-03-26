@@ -37,7 +37,7 @@ Navigate to: cd backend
     pip install psycopg2
     pip install plaid-python
 
- ---For use with MongoDB and Django (experimental)---   
+ ---For use with MongoDB NoSQL database and Django (experimental)---   
     pip install mongoengine
     pip install djongo pymongo
 

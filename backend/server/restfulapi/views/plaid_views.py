@@ -32,7 +32,7 @@ from rest_framework.decorators import api_view
 clientID = os.getenv('PLAID_CLIENT_ID')
 plaidSecret = os.getenv('PLAID_SECRET')
 plaidEnv = os.getenv('PLAID_ENV') # 'development' or 'production' or 'sandbox'
-# plaidProducts = os.getenv('PLAID_PRODUCTS').split(',')
+plaidProducts = os.getenv('PLAID_PRODUCTS').split(',')
 
 
 
