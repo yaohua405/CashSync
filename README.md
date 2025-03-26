@@ -1,4 +1,4 @@
-# Cashcore Edge
+# CashSync
 
 to create venv folder if you don have it in the folder structure:
 pip install virtualenv
